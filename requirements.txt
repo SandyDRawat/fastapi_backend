@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn
+pydantic
+requests
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+python-dotenv
+langchain-google-genai
+deepgram-sdk
+pyaudio
